@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2624",
+  "folder": "YouTube__watch_20260514091107_93676b",
+  "base_name": "_62_7aga9o7iZuQ_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mostafa5417/Cloud-Downloads/releases/tag/co-releases-v1-2624",
+  "files": [
+    {
+      "name": "_62_7aga9o7iZuQ_1080p.mp4",
+      "url": "https://github.com/mostafa5417/Cloud-Downloads/releases/download/co-releases-v1-2624/_62_7aga9o7iZuQ_1080p.mp4",
+      "api_url": "https://api.github.com/repos/mostafa5417/Cloud-Downloads/releases/assets/420033588",
+      "id": 420033588,
+      "size": 439162419,
+      "download_count": 0
+    }
+  ]
+}
